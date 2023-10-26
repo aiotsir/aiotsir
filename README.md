@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @aiotsir
+- 👋 Hi, I’m Bristo S Vincent
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning MLOPs
+- 🌱 I’m currently learning PySpark MLlib
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me bristo.off@gmail.com
 
 
 **Skills**
-Python, Pandas, Matplotlib, Polars, Tensorflow, PyTorch
-Flask, BentoML
+Python, Pandas, Matplotlib, Polars, scikit-learn, Tensorflow
+Flask, BentoML, Weights & Biases
+PySpark, Databricks
 Azure
 
 <!---
