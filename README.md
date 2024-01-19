@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bristo S Vincent
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning PySpark MLlib Azure Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in applying Machine Learning and Deep Learning techniques to problems involving tabular data (csv, parquet, ..) and Natural Language Processing and Generative AI.
+- 🌱 I’m currently learning LLMs, RAG,
+- 💞️ I’m looking to collaborate on building LLM Apps
 - 📫 How to reach me bristo.off@gmail.com
 
 
