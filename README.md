@@ -1,14 +1,15 @@
-**-  # 🏗️ Bristo | AI Product Developer**
+**🏗️ Bristo | AI Product Developer**
 
 **Building from scratch. Scaling with intent.**
 
-About Me
+**About Me**
 
 I build AI projects from the ground up. My background in Python and backend engineering allows me to develop prototypes that aren't just fast to build, but are scalable and cost-effective to run.I handle the entire lifecycle of an AI project, ensuring data is managed meaningfully and models are deployed efficiently.
 
 
 
 **Skills**
+
 Python, Pandas, Matplotlib, Polars, scikit-learn, Tensorflow, PyTorch, LLMs, RAG
 
 
